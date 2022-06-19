@@ -1,5 +1,7 @@
 # Exemplo de Leitura de um Array
 
+#### Link do Projeto: <a href="https://katarinealbuquerque.github.io/react-demo-array-app/">Abrir Exemplo de Leitura de um Array</a>
+
 ### Exemplo simples para demonstrar a leitura de dados de um array usando map.
 
 ## Getting Started with Create React App
